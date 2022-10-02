@@ -1,0 +1,19 @@
+.component-container {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.component-image {
+  width: 100px;
+  object-fit: cover;
+}
+.component-image1 {
+  width: 100px;
+  object-fit: cover;
+}
+.component-image2 {
+  width: 100px;
+  object-fit: cover;
+}
